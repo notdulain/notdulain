@@ -1,9 +1,5 @@
 <p align="center">
-  <img src="public/sunset.gif" alt="Sunset banner" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&center=true&vCenter=true&width=900&lines=Hi%2C+I'm+Dulain+Gunawardhana;Builder+of+clean%2C+useful+software" alt="Typing intro" />
+  <img src="public/room2.gif" alt="Sunset banner" width="100%" />
 </p>
 
 ---
