@@ -10,7 +10,7 @@
 </p>
 
 <h2 align="center"> About Me </h2>
-<p align="center">I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python, made a compiler using JFlex & CUP and deepening my understanding of API-led integration & cloud-native architectures. </p>
+<p align="center">I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python, made a compiler using JFlex & CUP and deepening my understanding of API-led integration & cloud-native architectures. <br> And I'm a Toastmaster as well 😌 Check my LinkedIn for more info! </p>
 <hr>
 
 <h3 align="center"> Tools I Have Experience in: </h3>
