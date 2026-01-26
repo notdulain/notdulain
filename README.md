@@ -11,47 +11,19 @@
 
 ##  About Me
 
-I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python and deepening my understanding of API-led integration & cloud-native architectures.
+I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python, made a compiler using JFlex & CUP and deepening my understanding of API-led integration & cloud-native architectures.
 
 ---
 
-## 🧠 Focus Areas
-
-* 🧩 **Product Engineering**
-  * Turning ideas into shippable features
-  * Clear UX with strong fundamentals
-  * Iteration with real feedback
-
-* ⚙️ **Systems & Tooling**
-  * Automations that save time
-  * Reliable developer workflows
-  * Maintainable project structure
-
-* 📈 **Data & Intelligence**
-  * Practical analytics and dashboards
-  * Applying ML where it actually helps
-  * Measuring impact with clarity
-
----
-
-## ⚡ Technical Skill Set
+## Tools I Have Experience in:
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=ts,js,python,go,react,next,nodejs,postgres,mongodb,redis,docker,git,github" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,ts,js,python,react,next,nodejs,mongodb,docker,git,github,linux,bash,apple,bun,aws,photoshop" alt="Skill icons" />
 </p>
-
-**Interests:**
-- Full-stack product development
-- Automation and developer tooling
-- Data-driven features and workflows
 
 ---
 
-## 📊 GitHub Contributions
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=notdulain&bg_color=0d1117&color=00e7ff&line=00e7ff&point=ffffff&area=true&hide_border=true" alt="Contribution graph" />
-</p>
+## Statistics
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight&hide_border=true" alt="GitHub streak" />
@@ -59,18 +31,19 @@ I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantu
 
 ---
 
-## 🌐 Connect With Me
+<div align="center">
+  <!-- Profile Views -->
+  <a href="https://github.com/notdulain" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=notdulain&label=Profile%20views&color=5e81ac&style=for-the-badge&logo=github&logoColor=white" alt="Profile Views Badge" /></a>
 
-<p align="center">
-  <a href="https://github.com/notdulain">
-    <img src="https://img.shields.io/badge/GitHub-12100E?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=notdulain&style=for-the-badge&color=brightgreen&label=✨%20Profile%20Views✨" alt="Profile views" />
-</p>
+  <!-- Total Stars -->
+  <a href="https://github.com/notdulain?tab=repositories&sort=stargazers" target="_blank">
+    <img alt="Total Stars" title="Total stars on GitHub" src="https://img.shields.io/github/stars/notdulain?style=for-the-badge&label=Stars&color=bf616a&logo=github" /></a>
+
+  <!-- Followers -->
+  <a href="https://github.com/notdulain?tab=followers" target="_blank">
+    <img alt="Followers" title="Follow me on GitHub" src="https://img.shields.io/github/followers/notdulain?style=for-the-badge&label=Followers&color=5e81ac&logo=github" /></a>
+</div>
 
 ---
-
-✨ *Focused on building useful, human-centered software*
