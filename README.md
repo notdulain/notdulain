@@ -1,10 +1,23 @@
 <p align="center">
-  <img src="public/room2.gif" alt="Sunset banner" width="100%" />
+  <img src="public/room3.gif" alt="Sunset banner" width="100%" />
 </p>
 
----
+<p align="center">
+  <a href="https://www.linkedin.com/in/dulain-nethwin-gunawardhana-41b251294/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:03dulain@gmail.com">
+    <img src="https://img.shields.io/badge/Email-0078D4?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  <a href="https://www.instagram.com/notdulain/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://x.com/probablydulain">
+    <img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+  </a>
+</p>
 
-## 🔥 About Me
+##  About Me
 
 I’m **Dulain Gunawardhana**, a developer who enjoys shipping practical, well-designed software. I care about clean architecture, clear interfaces, and learning by building. I like turning fuzzy ideas into simple, working products that people can use.
 
