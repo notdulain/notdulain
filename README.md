@@ -22,7 +22,9 @@
 
 <h3 align="center"> Statistics </h3>
 
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notdulain&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+[![GitHub Streak](https://gh-statistics.vercel.app?user=notdulain&theme=tokyonight-duo&hide_border=true)](https://git.io/streak-stats)
+
+<!--a href="https://git.io/streak-stats"><img src="https://readme-stats-three-neon.vercel.app?user=notdulain&theme=tokyonight-duo&hide_border=true" alt="GitHub Streak" /></a-->
 
 <!--p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight-duo" alt="Stats" />
