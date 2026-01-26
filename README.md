@@ -9,24 +9,20 @@
   <a href="https://x.com/probablydulain"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-##  About Me
+<h3 align="center"> About Me </h3>
+<hr>
+<p align="center">I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python, made a compiler using JFlex & CUP and deepening my understanding of API-led integration & cloud-native architectures. </p>
+<hr>
 
-I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python, made a compiler using JFlex & CUP and deepening my understanding of API-led integration & cloud-native architectures.
-
----
-
-## Tools I Have Experience in:
-
+<h3 align="center"> Tools I Have Experience in </h3>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,spring,ts,js,python,react,next,nodejs,mongodb,docker,git,github,linux,bash,apple,bun,aws,photoshop" alt="Skill icons" />
+  <img src="https://skillicons.dev/icons?i=c,java,spring,ts,js,python,react,next,nodejs,mongodb,docker,git,github,linux,bash,apple,bun,aws,azure" alt="Skill icons" />
 </p>
 
----
-
-## Statistics
+<h3 align="center"> Statistics </h3>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight-duo" alt="Stats" />
 </p>
 
 ---
