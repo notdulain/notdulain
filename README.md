@@ -22,7 +22,7 @@
 
 <h3 align="center"> Statistics </h3>
 
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=notdulain&theme=tokyonight-duo" alt="GitHub Streak" /></a>
 
 <!--p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight-duo" alt="Stats" />
