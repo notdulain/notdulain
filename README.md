@@ -9,21 +9,24 @@
   <a href="https://x.com/probablydulain"><img src="https://img.shields.io/badge/X-111111?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
 </p>
 
-<h3 align="center"> About Me </h3>
-<hr>
+<h2 align="center"> About Me </h2>
 <p align="center">I’m a 3rd year Computer Science student at SLIIT, currently diving into Quantum Information for the intellectual thrill. I’ve built backends with Spring Boot, distributed systems in Python, made a compiler using JFlex & CUP and deepening my understanding of API-led integration & cloud-native architectures. </p>
 <hr>
 
-<h3 align="center"> Tools I Have Experience in </h3>
+<h3 align="center"> Tools I Have Experience in: </h3>
+<div align="center">
 <p align="center">
   <img src="https://skillicons.dev/icons?i=c,java,spring,ts,js,python,react,next,nodejs,mongodb,docker,git,github,linux,bash,apple,bun,aws,azure" alt="Skill icons" />
 </p>
+</div>
 
 <h3 align="center"> Statistics </h3>
 
-<p align="center">
+<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight-duo" alt="GitHub Streak" /></a>
+
+<!--p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=notdulain&theme=tokyonight-duo" alt="Stats" />
-</p>
+</p-->
 
 ---
 
