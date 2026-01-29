@@ -1,10 +1,10 @@
-<div align="center">
+<!--div align="center">
   <img src="https://imgur.com/a/T00gLaU" width="100%" alt="Banner" />
-</div>
+</div-->
 
-<!--p align="center">
+<p align="center">
   <img src="public/room3.gif" alt="Sunset banner" width="100%" />
-</p-->
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dulain-nethwin-gunawardhana-41b251294/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
